@@ -13,7 +13,6 @@
           <element id="archive" name="ss04_dao-1.0-SNAPSHOT.jar">
             <element id="module-output" name="ss04_dao" />
           </element>
-          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.6.8" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.2.RELEASE" />
@@ -26,6 +25,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-test:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.6" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
