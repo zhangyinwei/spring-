@@ -7,8 +7,8 @@
         select * from tab_user where uid = #{a}
     </select>
 
-    <select id="saveUser" parameterType="user">
-        insert into tab_user(name,sex,telephone,birthday) VALUES (#{name},#{sex},#{telephone},#{birthday})
+    <select id="saveUserd" parameterType="user">
+        insert into tab_user(nam,sex,telephone,birthday) VALUES (#{name},#{sex},#{telephone},#{birthday})
     </select>
     <select id="findAll" resultType="user">
         select * from user;
