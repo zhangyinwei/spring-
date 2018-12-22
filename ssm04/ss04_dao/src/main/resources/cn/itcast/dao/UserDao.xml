@@ -9,6 +9,7 @@
 
     <select id="saveUser" parameterType="user">
         insert into tab_user(name,sex,telephone,birthday) VALUES (#{name},#{sex},#{telephone},#{birthday})
+    </select>
     <select id="findAll" resultType="user">
         select * from user
     </select>
