@@ -6,4 +6,8 @@
     <select id="findByUid" parameterType="int" resultType="user">
         select * from tab_user where uid = #{a}
     </select>
+
+    <select id="findAll" resultType="user">
+        select * from user;
+    </select>
 </mapper>
